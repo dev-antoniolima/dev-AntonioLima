@@ -17,5 +17,5 @@
 <h2>Olá, seja bem-vindo ao meu Github, aqui você poderá encontrar todos os meus projetos realizados ou que ainda estejam em desenvolvimento<h2>
   
   <p align="center">
-  <img src="walking.gif">
+  <img src="walking.gif" width="250px" height="250px">
   </p>
