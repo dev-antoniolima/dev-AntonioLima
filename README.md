@@ -16,4 +16,3 @@
 
 <h2>Olá, seja bem-vindo ao meu Github, aqui você poderá encontrar todos os meus projetos realizados ou que ainda estejam em desenvolvimento.<h2>
   
-<img src="code.jpg">  
