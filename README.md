@@ -14,5 +14,10 @@
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alimamg4@gmail.com">
 </a>
 
+<!-- Text -->
 <h2>Olá, seja bem-vindo ao meu Github, aqui você poderá encontrar todos os meus projetos realizados ou que ainda estejam em desenvolvimento.<h2>
   
+<!-- Computer Gif -->
+<p align="center">
+<img src="coding.gif">
+</p>
