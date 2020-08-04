@@ -19,5 +19,5 @@
   
 <!-- Computer Gif -->
 <p align="center">
-<img src="coding.gif">
+<img src="coding.gif"  height=300px width=300px>
 </p>
