@@ -17,7 +17,3 @@
 <!-- Text -->
 <h2>Olá, seja bem-vindo ao meu Github, aqui você poderá encontrar todos os meus projetos realizados ou que ainda estejam em desenvolvimento.<h2>
   
-<!-- Computer Gif -->
-<p align="center">
-<img src="././coding.gif"  height=250px width=250px>
-</p>
