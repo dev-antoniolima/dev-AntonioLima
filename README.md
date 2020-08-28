@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 
 <!-- Button - Gmail -->
 <a href="mailto:alimamg4@gmail.com">
