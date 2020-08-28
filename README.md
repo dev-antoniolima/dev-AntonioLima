@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goharajunior/">
 </a>
 
+<br>
+
 <!-- Button - Gmail -->
 <a href="mailto:alimamg4@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alimamg4@gmail.com">
