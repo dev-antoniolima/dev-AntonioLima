@@ -3,7 +3,7 @@
 
 <!-- Button - Gmail -->
 <a href="mailto:alimamg4@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alimamg4@gmail.com">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alimamg4@gmail.com">
 </a>
 
 <br>
