@@ -1,8 +1,4 @@
 <p align="left">
-<!-- Button- GitHub -->
-<a href="https://github.com/dev-AntonioLima">
-<img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/goharajunior">
-</a>
 
 <!-- Button - LinkedIn -->
 <a href="https://www.linkedin.com/in/devalima/">
