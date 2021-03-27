@@ -1,21 +1,16 @@
 <!-- Button - Gmail -->
 
-<div>
+
+
 <a href="mailto:alimamg4@gmail.com">
 <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alimamg4@gmail.com">
 </a>
-
-
-<br>
 
 <!-- Button - LinkedIn -->
 
 <a href="https://www.linkedin.com/in/devalima/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-
-<br>
 
 <!-- Button - Whatsapp -->
 
